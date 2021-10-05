@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @richards-okiemute
+- 👋 Hi, I’m Richards Okiemute
 - 👀 I’m interested in data science, data analysis, data engineering, machine learning, cloud technologies, DevOps
 - 🌱 I’m currently learning data science, technical writing, DevOps, Cloud
 - 💞️ I’m looking to collaborate on Github and different projects
